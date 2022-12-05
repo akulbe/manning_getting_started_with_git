@@ -1,0 +1,30 @@
+ Aaron Kulbe@kraken ~\Code\todo-list  master  git config --local --list
+core.repositoryformatversion=0
+core.filemode=false
+core.bare=false
+core.logallrefupdates=true
+core.symlinks=false
+core.ignorecase=true
+user.name=Aaron Kulbe
+user.email=aaron@longviewbits.com
+ Aaron Kulbe@kraken ~\Code\todo-list  master  git log
+commit 32fc84eea18a9c4964c4beb096725ed0e404c388 (HEAD -> master)
+Author: Aaron Kulbe <aaron@longviewbits.com>
+Date:   Mon Dec 5 09:41:25 2022 -0800
+
+    Add content to README.md
+
+commit 7d07ff98c8acedba73dbcc1670fddc7621b2901e
+Author: Aaron Kulbe <aaron@longviewbits.com>
+Date:   Mon Dec 5 09:40:42 2022 -0800
+
+    first git commit
+  Aaron Kulbe@kraken ~\Code\todo-list  master  ls
+
+    Directory: C:\Users\Aaron Kulbe\Code\todo-list
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           12/5/2022  9:40 AM             12 README.md
+
+  Aaron Kulbe@kraken ~\Code\todo-list master
